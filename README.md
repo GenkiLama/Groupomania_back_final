@@ -1,4 +1,4 @@
-# Groupomania Front
+# Groupomania Back
 
 ## Project setup
 
